@@ -1,0 +1,2 @@
+# Design patterns
+Design patterns are reusable solutions to common problems in software design. They provide a template or blueprint for solving a particular problem in a specific context. Below are detailed explanations of the Factory, Singleton, Facade, and Command design patterns, along with Python examples for each.
